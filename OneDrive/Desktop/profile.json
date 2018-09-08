@@ -1,0 +1,9 @@
+{
+    "first_name" : "Jovian",
+    "last_name" : "Rios",
+    "displayHandle" : "@Jovian",
+    "posts" : ["facebook link", "instagram link",
+    "twitter link"],
+    "age" : 20,
+    "active" : true
+}
